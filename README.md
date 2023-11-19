@@ -26,4 +26,5 @@ example call:
 >> f.close()  
 >> return rand_num
   
-# UML sequence diagram showing how requesting and receiving data works. Make it detailed enough that your partner (and your grader) will understand
+# UML sequence diagram showing how requesting and receiving data works. Make it detailed enough that your partner (and your grader) will understand  
+![UML Sequence Diagram](./uml.png)
