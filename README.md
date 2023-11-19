@@ -1,5 +1,6 @@
 # 361microservice
 # Clear instructions for how to programmatically REQUEST data from the microservice you implemented. Include an example call.
+First, create am empty randint-service.txt in the same directory as main.py to servce as communication pipeline between the main program and the microservice.  
 To request data from the random number generator microservice, you may implement a gen_randint() function.  
 Once the function is called, a command will be written to the text file,  
 the microservice that receives the command will generate and store a randomly generated number in the text file communication pipeline.  
